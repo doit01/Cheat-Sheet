@@ -1,3 +1,5 @@
+[Controlling Bean Creation Order with @DependsOn Annotation](https://www.baeldung.com/spring-depends-on)
+
 abstract class
 First, an abstract class isn’t component-scanned since it can’t be instantiated without a concrete subclass.
 
